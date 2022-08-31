@@ -7,7 +7,7 @@
                         |-----------------------------------------------------|---------|---------------|
                         | Laura Rafaelly Guimarães Silva                      | VM1-PC1 | 192.168.24.17 |
                         |                                                     | VM2-PC1 | 192.168.24.18 |
-                        | Jocineide Bruno dos Santos                          | VM1-PC2 | 192.168.24.19 |
+                        | Jocineide Bruno Barbosa da Silva                    | VM1-PC2 | 192.168.24.19 |
                         |                                                     | VM2-PC2 | 192.168.24.20 |
                         | Rayane Araújo de Albuquerque                        | VM1-PC3 | 192.168.24.21 |
                         |                                                     | VM2-PC3 | 192.168.24.22 |
